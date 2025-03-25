@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "git": "^0.1.5",
+    "node": "^20.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "name": "apibanco",
+  "version": "1.0.0",
+  "description": "minhaprimeiraapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreyME/API-Banco.git"
+  },
+  "author": "José Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreyME/API-Banco/issues"
+  },
+  "homepage": "https://github.com/dreyME/API-Banco#readme"
+}
